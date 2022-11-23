@@ -1,0 +1,9 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+cat -n hw2-input12.txt
+ls -l /usr/bin/python3 &
+sleep 4
+ps -f | wc -l
+exit

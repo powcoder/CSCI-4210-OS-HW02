@@ -1,0 +1,10 @@
+https://powcoder.com
+代写代考加微信 powcoder
+Assignment Project Exam Help
+Add WeChat powcoder
+cat cocoapuffs.txt
+cd /home/goldsd
+ls -1 | grep cocoapuffs
+ls -1 | grep -v cocoapuffs
+ps -f | wc -l
+exit
